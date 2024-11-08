@@ -1,12 +1,6 @@
-Certainly! Here is the README file in markdown format:
-
----
-
 # README
 
 ## Intune Remediation Script: Set `_LabelFromReg` Registry Key for Multiple Servers and Drives
-
-### Author: Maxime Guillemin
 
 ---
 
