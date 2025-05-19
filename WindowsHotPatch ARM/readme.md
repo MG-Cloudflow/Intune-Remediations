@@ -38,6 +38,7 @@ This remediation script enables **Windows Hotpatching** on **Arm64-based Windows
 
 | File Name      | Description                                  |
 |----------------|----------------------------------------------|
+| `Detect.ps1` | Detects if Remediaton scrtipt needs to run |
 | `remediate.ps1` | Remediation script to disable CHPE and notify user |
 | `README.md`    | This documentation                           |
 
